@@ -1,2 +1,2 @@
 # data-analysis-python-projects
-This repository contains Python code, datasets, and project materials from the 'Data Analysis with Python' course offered by freeCodeCamp. It covers various data analysis techniques and tools using Python libraries like Pandas, NumPy, and Matplotlib.
+Welcome to my repository where I showcase my personal data analysis projects across multiple industries and subjects using Python. Here, you will find various projects that demonstrate different data analysis techniques, from exploratory data analysis (EDA) to more advanced machine learning models.
