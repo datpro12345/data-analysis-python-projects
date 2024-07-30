@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-<<<<<<< HEAD
-      <module fileurl="file://$PROJECT_DIR$/.idea/YoutubeAnalysis.iml" filepath="$PROJECT_DIR$/.idea/YoutubeAnalysis.iml" />
-=======
-      <module fileurl="file://$PROJECT_DIR$/.idea/data-driven-investing.iml" filepath="$PROJECT_DIR$/.idea/data-driven-investing.iml" />
->>>>>>> master
+      <module fileurl="file://$PROJECT_DIR$/.idea/data-analysis-python-projects.iml" filepath="$PROJECT_DIR$/.idea/data-analysis-python-projects.iml" />
     </modules>
   </component>
 </project>
