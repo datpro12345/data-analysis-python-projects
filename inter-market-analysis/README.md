@@ -1,4 +1,3 @@
-# On processing (Not done yet)
 # Predict Future Sales competition in Kaggle
 
 
